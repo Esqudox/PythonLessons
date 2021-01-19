@@ -1,0 +1,5 @@
+Vasya 24000
+Petya 19000
+Gosha 17000
+Arkadij 23000
+Joseph 100000
